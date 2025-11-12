@@ -1,5 +1,2 @@
-[ main video data ]
-[ MAGIC = "VIDHIDE123456789" ]  ← marker
-[ nonce (16 bytes) ]
-[ tag (16 bytes) ]
-[ ciphertext (hidden video) ]
+sorry______
+wrong place to look for.
